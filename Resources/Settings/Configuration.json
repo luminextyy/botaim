@@ -4,12 +4,12 @@
   "Enabled": true,
   "Sensitivity": 0,
   "SendNotifications": true,
-  "WallCheck": false,
+  "WallCheck": true,
   "TriggerKey": "MouseButton2",
   "SaveSettings": true,
   "AliveCheck": true,
   "ThirdPerson": false,
   "LockPart": "Head",
-  "TeamCheck": false,
+  "TeamCheck": true,
   "Toggle": false
 }
